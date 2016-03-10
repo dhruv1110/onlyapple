@@ -1,0 +1,28 @@
+.center_container
+{
+	position: absolute;
+	top: 50px;
+	left: 50%;
+	margin-left: -500px;
+	width: 1024px;
+	border: 1px solid #E0DFDF;
+	padding: 15px;
+	min-height: 100%;
+	box-shadow: 5px 5px 50px #CCC;
+	background: white;
+}
+body
+{
+	background: #FCFCFC;
+	padding:0px;
+	margin::0px;
+}
+.navbar-nav li:hover a
+{
+	font-weight:bold;
+}
+
+.dropdown-menu li a
+{
+	font-weight:normal !important;
+}
